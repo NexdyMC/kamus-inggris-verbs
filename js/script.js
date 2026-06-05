@@ -1,13 +1,14 @@
 let verbData = [];
 
-// Fetch data
+// panggil file json
 fetch('/language/id-ID.json')
-    .then(response => response.json())
-    .then(data => {
-        verbData = data.verb;
-        renderTable(verbData);
-    });
+.then(response => response.json())
+.then(data => {
+    verbData = data.verb;
+    renderTable(verbData);
+});
 
+// Render tabel verb
 function renderTable(data) {
     const tableBody = document.getElementById('verb-table');
     tableBody.innerHTML = ''; // Kosongkan tabel sebelum render
@@ -35,10 +36,13 @@ document.getElementById('searchBar').addEventListener('keyup', function() {
 
     rows.forEach(row => {
         const v1 = row.cells[0].textContent.toLowerCase();
+        const v2 = row.cells[1].textContent.toLowerCase();
+        const v3 = row.cells[2].textContent.toLowerCase();
+        const v3 = row.cells[2].textContent.toLowerCase();
         const tr = row.cells[4].textContent.toLowerCase();
         
         // Cek apakah input ada di V1 atau di Arti (tr)
-        if (v1.includes(searchTerm) || tr.includes(searchTerm)) {
+        if (v1.includes(searchTerm) || v2.includes(searchTerm) || v3.includes(searchTerm) || tr.includes(searchTerm)) {
             row.style.display = ''; // Tampilkan
         } else {
             row.style.display = 'none'; // Sembunyikan
