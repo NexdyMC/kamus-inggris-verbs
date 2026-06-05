@@ -38,7 +38,7 @@ document.getElementById('searchBar').addEventListener('keyup', function() {
         const v1 = row.cells[0].textContent.toLowerCase();
         const v2 = row.cells[1].textContent.toLowerCase();
         const v3 = row.cells[2].textContent.toLowerCase();
-        const v3 = row.cells[2].textContent.toLowerCase();
+        const v3 = row.cells[3].textContent.toLowerCase();
         const tr = row.cells[4].textContent.toLowerCase();
         
         // Cek apakah input ada di V1 atau di Arti (tr)
