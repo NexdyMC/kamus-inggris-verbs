@@ -1,4 +1,7 @@
 {
+  "length": 214,
+  "language": "EN",
+  "translate": "ID",
   "verb": [
     {
       "type": "regular",
@@ -7,6 +10,2782 @@
       "v3": "Accepted",
       "ing": "Accepting",
       "tr": "Menerima"
+    },
+    {
+      "type": "regular",
+      "v1": "Achieve",
+      "v2": "Achieved",
+      "v3": "Achieved",
+      "ing": "Achieving",
+      "tr": "Mencapai"
+    },
+    {
+      "type": "regular",
+      "v1": "Add",
+      "v2": "Added",
+      "v3": "Added",
+      "ing": "Adding",
+      "tr": "Menambah"
+    },
+    {
+      "type": "regular",
+      "v1": "Agree",
+      "v2": "Agreed",
+      "v3": "Agreed",
+      "ing": "Agreeing",
+      "tr": "Setuju"
+    },
+    {
+      "type": "regular",
+      "v1": "Appear",
+      "v2": "Appeared",
+      "v3": "Appeared",
+      "ing": "Appearing",
+      "tr": "Muncul"
+    },
+    {
+      "type": "regular",
+      "v1": "Apply",
+      "v2": "Applied",
+      "v3": "Applied",
+      "ing": "Applying",
+      "tr": "Melamar"
+    },
+    {
+      "type": "regular",
+      "v1": "Arrange",
+      "v2": "Arranged",
+      "v3": "Arranged",
+      "ing": "Arranging",
+      "tr": "Mengatur"
+    },
+    {
+      "type": "regular",
+      "v1": "Arrive",
+      "v2": "Arrived",
+      "v3": "Arrived",
+      "ing": "Arriving",
+      "tr": "Tiba"
+    },
+    {
+      "type": "regular",
+      "v1": "Ask",
+      "v2": "Asked",
+      "v3": "Asked",
+      "ing": "Asking",
+      "tr": "Bertanya"
+    },
+    {
+      "type": "regular",
+      "v1": "Attach",
+      "v2": "Attached",
+      "v3": "Attached",
+      "ing": "Attaching",
+      "tr": "Melampirkan"
+    },
+    {
+      "type": "regular",
+      "v1": "Attend",
+      "v2": "Attended",
+      "v3": "Attended",
+      "ing": "Attending",
+      "tr": "Hadir"
+    },
+    {
+      "type": "regular",
+      "v1": "Avoid",
+      "v2": "Avoided",
+      "v3": "Avoided",
+      "ing": "Avoiding",
+      "tr": "Menghindari"
+    },
+    {
+      "type": "regular",
+      "v1": "Bake",
+      "v2": "Baked",
+      "v3": "Baked",
+      "ing": "Baking",
+      "tr": "Memanggang"
+    },
+    {
+      "type": "regular",
+      "v1": "Balance",
+      "v2": "Balanced",
+      "v3": "Balanced",
+      "ing": "Balancing",
+      "tr": "Menyeimbangkan"
+    },
+    {
+      "type": "regular",
+      "v1": "Believe",
+      "v2": "Believed",
+      "v3": "Believed",
+      "ing": "Believing",
+      "tr": "Percaya"
+    },
+    {
+      "type": "regular",
+      "v1": "Benefit",
+      "v2": "Benefited",
+      "v3": "Benefited",
+      "ing": "Benefiting",
+      "tr": "Menguntungkan"
+    },
+    {
+      "type": "regular",
+      "v1": "Boil",
+      "v2": "Boiled",
+      "v3": "Boiled",
+      "ing": "Boiling",
+      "tr": "Merebus"
+    },
+    {
+      "type": "regular",
+      "v1": "Browse",
+      "v2": "Browsed",
+      "v3": "Browsed",
+      "ing": "Browsing",
+      "tr": "Menjelajahi"
+    },
+    {
+      "type": "regular",
+      "v1": "Build",
+      "v2": "Builded",
+      "v3": "Builded",
+      "ing": "Building",
+      "tr": "Membangun"
+    },
+    {
+      "type": "regular",
+      "v1": "Calculate",
+      "v2": "Calculated",
+      "v3": "Calculated",
+      "ing": "Calculating",
+      "tr": "Menghitung"
+    },
+    {
+      "type": "regular",
+      "v1": "Call",
+      "v2": "Called",
+      "v3": "Called",
+      "ing": "Calling",
+      "tr": "Memanggil"
+    },
+    {
+      "type": "regular",
+      "v1": "Cancel",
+      "v2": "Cancelled",
+      "v3": "Cancelled",
+      "ing": "Cancelling",
+      "tr": "Membatalkan"
+    },
+    {
+      "type": "regular",
+      "v1": "Cause",
+      "v2": "Caused",
+      "v3": "Caused",
+      "ing": "Causing",
+      "tr": "Menyebabkan"
+    },
+    {
+      "type": "regular",
+      "v1": "Change",
+      "v2": "Changed",
+      "v3": "Changed",
+      "ing": "Changing",
+      "tr": "Mengubah"
+    },
+    {
+      "type": "regular",
+      "v1": "Clean",
+      "v2": "Cleaned",
+      "v3": "Cleaned",
+      "ing": "Cleaning",
+      "tr": "Membersihkan"
+    },
+    {
+      "type": "regular",
+      "v1": "Clear",
+      "v2": "Cleared",
+      "v3": "Cleared",
+      "ing": "Clearing",
+      "tr": "Membersihkan"
+    },
+    {
+      "type": "regular",
+      "v1": "Click",
+      "v2": "Clicked",
+      "v3": "Clicked",
+      "ing": "Clicking",
+      "tr": "Mengklik"
+    },
+    {
+      "type": "regular",
+      "v1": "Close",
+      "v2": "Closed",
+      "v3": "Closed",
+      "ing": "Closing",
+      "tr": "Menutup"
+    },
+    {
+      "type": "regular",
+      "v1": "Collect",
+      "v2": "Collected",
+      "v3": "Collected",
+      "ing": "Collecting",
+      "tr": "Mengumpulkan"
+    },
+    {
+      "type": "regular",
+      "v1": "Compare",
+      "v2": "Compared",
+      "v3": "Compared",
+      "ing": "Comparing",
+      "tr": "Membandingkan"
+    },
+    {
+      "type": "regular",
+      "v1": "Compete",
+      "v2": "Competed",
+      "v3": "Competed",
+      "ing": "Competing",
+      "tr": "Berkompetisi"
+    },
+    {
+      "type": "regular",
+      "v1": "Complain",
+      "v2": "Complained",
+      "v3": "Complained",
+      "ing": "Complaining",
+      "tr": "Mengeluh"
+    },
+    {
+      "type": "regular",
+      "v1": "Complete",
+      "v2": "Completed",
+      "v3": "Completed",
+      "ing": "Completing",
+      "tr": "Menyelesaikan"
+    },
+    {
+      "type": "regular",
+      "v1": "Connect",
+      "v2": "Connected",
+      "v3": "Connected",
+      "ing": "Connecting",
+      "tr": "Menghubungkan"
+    },
+    {
+      "type": "regular",
+      "v1": "Consider",
+      "v2": "Considered",
+      "v3": "Considered",
+      "ing": "Considering",
+      "tr": "Mempertimbangkan"
+    },
+    {
+      "type": "regular",
+      "v1": "Cook",
+      "v2": "Cooked",
+      "v3": "Cooked",
+      "ing": "Cooking",
+      "tr": "Memasak"
+    },
+    {
+      "type": "regular",
+      "v1": "Copy",
+      "v2": "Copied",
+      "v3": "Copied",
+      "ing": "Copying",
+      "tr": "Menyalin"
+    },
+    {
+      "type": "regular",
+      "v1": "Create",
+      "v2": "Created",
+      "v3": "Created",
+      "ing": "Creating",
+      "tr": "Membuat"
+    },
+    {
+      "type": "regular",
+      "v1": "Dance",
+      "v2": "Danced",
+      "v3": "Danced",
+      "ing": "Dancing",
+      "tr": "Menari"
+    },
+    {
+      "type": "regular",
+      "v1": "Decide",
+      "v2": "Decided",
+      "v3": "Decided",
+      "ing": "Deciding",
+      "tr": "Memutuskan"
+    },
+    {
+      "type": "regular",
+      "v1": "Deliver",
+      "v2": "Delivered",
+      "v3": "Delivered",
+      "ing": "Delivering",
+      "tr": "Mengirimkan"
+    },
+    {
+      "type": "regular",
+      "v1": "Deny",
+      "v2": "Denied",
+      "v3": "Denied",
+      "ing": "Denying",
+      "tr": "Menolak"
+    },
+    {
+      "type": "regular",
+      "v1": "Depend",
+      "v2": "Depended",
+      "v3": "Depended",
+      "ing": "Depending",
+      "tr": "Bergantung"
+    },
+    {
+      "type": "regular",
+      "v1": "Describe",
+      "v2": "Described",
+      "v3": "Described",
+      "ing": "Describing",
+      "tr": "Menjelaskan"
+    },
+    {
+      "type": "regular",
+      "v1": "Design",
+      "v2": "Designed",
+      "v3": "Designed",
+      "ing": "Designing",
+      "tr": "Merancang"
+    },
+    {
+      "type": "regular",
+      "v1": "Destroy",
+      "v2": "Destroyed",
+      "v3": "Destroyed",
+      "ing": "Destroying",
+      "tr": "Menghancurkan"
+    },
+    {
+      "type": "regular",
+      "v1": "Develop",
+      "v2": "Developed",
+      "v3": "Developed",
+      "ing": "Developing",
+      "tr": "Mengembangkan"
+    },
+    {
+      "type": "regular",
+      "v1": "Differ",
+      "v2": "Differed",
+      "v3": "Differed",
+      "ing": "Differing",
+      "tr": "Berbeda"
+    },
+    {
+      "type": "regular",
+      "v1": "Disappear",
+      "v2": "Disappeared",
+      "v3": "Disappeared",
+      "ing": "Disappearing",
+      "tr": "Menghilang"
+    },
+    {
+      "type": "regular",
+      "v1": "Discover",
+      "v2": "Discovered",
+      "v3": "Discovered",
+      "ing": "Discovering",
+      "tr": "Menemukan"
+    },
+    {
+      "type": "regular",
+      "v1": "Discuss",
+      "v2": "Discussed",
+      "v3": "Discussed",
+      "ing": "Discussing",
+      "tr": "Mendiskusikan"
+    },
+    {
+      "type": "regular",
+      "v1": "Display",
+      "v2": "Displayed",
+      "v3": "Displayed",
+      "ing": "Displaying",
+      "tr": "Menampilkan"
+    },
+    {
+      "type": "regular",
+      "v1": "Divide",
+      "v2": "Divided",
+      "v3": "Divided",
+      "ing": "Dividing",
+      "tr": "Membagi"
+    },
+    {
+      "type": "regular",
+      "v1": "Download",
+      "v2": "Downloaded",
+      "v3": "Downloaded",
+      "ing": "Downloading",
+      "tr": "Mengunduh"
+    },
+    {
+      "type": "regular",
+      "v1": "Dream",
+      "v2": "Dreamed",
+      "v3": "Dreamed",
+      "ing": "Dreaming",
+      "tr": "Bermimpi"
+    },
+    {
+      "type": "regular",
+      "v1": "Earn",
+      "v2": "Earned",
+      "v3": "Earned",
+      "ing": "Earning",
+      "tr": "Menghasilkan"
+    },
+    {
+      "type": "regular",
+      "v1": "Edit",
+      "v2": "Edited",
+      "v3": "Edited",
+      "ing": "Editing",
+      "tr": "Mengedit"
+    },
+    {
+      "type": "regular",
+      "v1": "Educate",
+      "v2": "Educated",
+      "v3": "Educated",
+      "ing": "Educating",
+      "tr": "Mendidik"
+    },
+    {
+      "type": "regular",
+      "v1": "Employ",
+      "v2": "Employed",
+      "v3": "Employed",
+      "ing": "Employing",
+      "tr": "Mempekerjakan"
+    },
+    {
+      "type": "regular",
+      "v1": "Enable",
+      "v2": "Enabled",
+      "v3": "Enabled",
+      "ing": "Enabling",
+      "tr": "Mengaktifkan"
+    },
+    {
+      "type": "regular",
+      "v1": "Encourage",
+      "v2": "Encouraged",
+      "v3": "Encouraged",
+      "ing": "Encouraging",
+      "tr": "Mendorong"
+    },
+    {
+      "type": "regular",
+      "v1": "Enjoy",
+      "v2": "Enjoyed",
+      "v3": "Enjoyed",
+      "ing": "Enjoying",
+      "tr": "Menikmati"
+    },
+    {
+      "type": "regular",
+      "v1": "Enter",
+      "v2": "Entered",
+      "v3": "Entered",
+      "ing": "Entering",
+      "tr": "Memasuki"
+    },
+    {
+      "type": "regular",
+      "v1": "Establish",
+      "v2": "Established",
+      "v3": "Established",
+      "ing": "Establishing",
+      "tr": "Mendirikan"
+    },
+    {
+      "type": "regular",
+      "v1": "Estimate",
+      "v2": "Estimated",
+      "v3": "Estimated",
+      "ing": "Estimating",
+      "tr": "Memperkirakan"
+    },
+    {
+      "type": "regular",
+      "v1": "Examine",
+      "v2": "Examined",
+      "v3": "Examined",
+      "ing": "Examining",
+      "tr": "Memeriksa"
+    },
+    {
+      "type": "regular",
+      "v1": "Exist",
+      "v2": "Existed",
+      "v3": "Existed",
+      "ing": "Existing",
+      "tr": "Ada"
+    },
+    {
+      "type": "regular",
+      "v1": "Expect",
+      "v2": "Expected",
+      "v3": "Expected",
+      "ing": "Expecting",
+      "tr": "Mengharapkan"
+    },
+    {
+      "type": "regular",
+      "v1": "Explain",
+      "v2": "Explained",
+      "v3": "Explained",
+      "ing": "Explaining",
+      "tr": "Menjelaskan"
+    },
+    {
+      "type": "regular",
+      "v1": "Explore",
+      "v2": "Explored",
+      "v3": "Explored",
+      "ing": "Exploring",
+      "tr": "Menjelajahi"
+    },
+    {
+      "type": "regular",
+      "v1": "Fail",
+      "v2": "Failed",
+      "v3": "Failed",
+      "ing": "Failing",
+      "tr": "Gagal"
+    },
+    {
+      "type": "regular",
+      "v1": "Finish",
+      "v2": "Finished",
+      "v3": "Finished",
+      "ing": "Finishing",
+      "tr": "Menyelesaikan"
+    },
+    {
+      "type": "regular",
+      "v1": "Follow",
+      "v2": "Followed",
+      "v3": "Followed",
+      "ing": "Following",
+      "tr": "Mengikuti"
+    },
+    {
+      "type": "regular",
+      "v1": "Forgive",
+      "v2": "Forgived",
+      "v3": "Forgived",
+      "ing": "Forgiving",
+      "tr": "Memaafkan"
+    },
+    {
+      "type": "regular",
+      "v1": "Format",
+      "v2": "Formatted",
+      "v3": "Formatted",
+      "ing": "Formatting",
+      "tr": "Memformat"
+    },
+    {
+      "type": "regular",
+      "v1": "Gain",
+      "v2": "Gained",
+      "v3": "Gained",
+      "ing": "Gaining",
+      "tr": "Mendapatkan"
+    },
+    {
+      "type": "regular",
+      "v1": "Generate",
+      "v2": "Generated",
+      "v3": "Generated",
+      "ing": "Generating",
+      "tr": "Menghasilkan"
+    },
+    {
+      "type": "regular",
+      "v1": "Happen",
+      "v2": "Happened",
+      "v3": "Happened",
+      "ing": "Happening",
+      "tr": "Terjadi"
+    },
+    {
+      "type": "regular",
+      "v1": "Help",
+      "v2": "Helped",
+      "v3": "Helped",
+      "ing": "Helping",
+      "tr": "Membantu"
+    },
+    {
+      "type": "regular",
+      "v1": "Hire",
+      "v2": "Hired",
+      "v3": "Hired",
+      "ing": "Hiring",
+      "tr": "Merekrut"
+    },
+    {
+      "type": "regular",
+      "v1": "Hope",
+      "v2": "Hoped",
+      "v3": "Hoped",
+      "ing": "Hoping",
+      "tr": "Berharap"
+    },
+    {
+      "type": "regular",
+      "v1": "Identify",
+      "v2": "Identified",
+      "v3": "Identified",
+      "ing": "Identifying",
+      "tr": "Mengidentifikasi"
+    },
+    {
+      "type": "regular",
+      "v1": "Imagine",
+      "v2": "Imagined",
+      "v3": "Imagined",
+      "ing": "Imagining",
+      "tr": "Membayangkan"
+    },
+    {
+      "type": "regular",
+      "v1": "Improve",
+      "v2": "Improved",
+      "v3": "Improved",
+      "ing": "Improving",
+      "tr": "Meningkatkan"
+    },
+    {
+      "type": "regular",
+      "v1": "Include",
+      "v2": "Included",
+      "v3": "Included",
+      "ing": "Including",
+      "tr": "Menyertakan"
+    },
+    {
+      "type": "regular",
+      "v1": "Increase",
+      "v2": "Increased",
+      "v3": "Increased",
+      "ing": "Increasing",
+      "tr": "Meningkat"
+    },
+    {
+      "type": "regular",
+      "v1": "Install",
+      "v2": "Installed",
+      "v3": "Installed",
+      "ing": "Installing",
+      "tr": "Memasang"
+    },
+    {
+      "type": "regular",
+      "v1": "Inspire",
+      "v2": "Inspired",
+      "v3": "Inspired",
+      "ing": "Inspiring",
+      "tr": "Menginspirasi"
+    },
+    {
+      "type": "regular",
+      "v1": "Intend",
+      "v2": "Intended",
+      "v3": "Intended",
+      "ing": "Intending",
+      "tr": "Bermaksud"
+    },
+    {
+      "type": "regular",
+      "v1": "Interact",
+      "v2": "Interacted",
+      "v3": "Interacted",
+      "ing": "Interacting",
+      "tr": "Berinteraksi"
+    },
+    {
+      "type": "regular",
+      "v1": "Invest",
+      "v2": "Invested",
+      "v3": "Invested",
+      "ing": "Investing",
+      "tr": "Berinvestasi"
+    },
+    {
+      "type": "regular",
+      "v1": "Involve",
+      "v2": "Involved",
+      "v3": "Involved",
+      "ing": "Involving",
+      "tr": "Melibatkan"
+    },
+    {
+      "type": "regular",
+      "v1": "Join",
+      "v2": "Joined",
+      "v3": "Joined",
+      "ing": "Joining",
+      "tr": "Bergabung"
+    },
+    {
+      "type": "regular",
+      "v1": "Judge",
+      "v2": "Judged",
+      "v3": "Judged",
+      "ing": "Judging",
+      "tr": "Menilai"
+    },
+    {
+      "type": "regular",
+      "v1": "Jump",
+      "v2": "Jumped",
+      "v3": "Jumped",
+      "ing": "Jumping",
+      "tr": "Melompat"
+    },
+    {
+      "type": "regular",
+      "v1": "Keep",
+      "v2": "Keeped",
+      "v3": "Keeped",
+      "ing": "Keeping",
+      "tr": "Menjaga"
+    },
+    {
+      "type": "regular",
+      "v1": "Kill",
+      "v2": "Killed",
+      "v3": "Killed",
+      "ing": "Killing",
+      "tr": "Membunuh"
+    },
+    {
+      "type": "regular",
+      "v1": "Land",
+      "v2": "Landed",
+      "v3": "Landed",
+      "ing": "Landing",
+      "tr": "Mendarat"
+    },
+    {
+      "type": "regular",
+      "v1": "Learn",
+      "v2": "Learned",
+      "v3": "Learned",
+      "ing": "Learning",
+      "tr": "Belajar"
+    },
+    {
+      "type": "regular",
+      "v1": "Like",
+      "v2": "Liked",
+      "v3": "Liked",
+      "ing": "Liking",
+      "tr": "Menyukai"
+    },
+    {
+      "type": "regular",
+      "v1": "Listen",
+      "v2": "Listened",
+      "v3": "Listened",
+      "ing": "Listening",
+      "tr": "Mendengarkan"
+    },
+    {
+      "type": "regular",
+      "v1": "Live",
+      "v2": "Lived",
+      "v3": "Lived",
+      "ing": "Living",
+      "tr": "Tinggal"
+    },
+    {
+      "type": "regular",
+      "v1": "Load",
+      "v2": "Loaded",
+      "v3": "Loaded",
+      "ing": "Loading",
+      "tr": "Memuat"
+    },
+    {
+      "type": "regular",
+      "v1": "Manage",
+      "v2": "Managed",
+      "v3": "Managed",
+      "ing": "Managing",
+      "tr": "Mengelola"
+    },
+    {
+      "type": "regular",
+      "v1": "Maintain",
+      "v2": "Maintained",
+      "v3": "Maintained",
+      "ing": "Maintaining",
+      "tr": "Mempertahankan"
+    },
+    {
+      "type": "regular",
+      "v1": "Measure",
+      "v2": "Measured",
+      "v3": "Measured",
+      "ing": "Measuring",
+      "tr": "Mengukur"
+    },
+    {
+      "type": "regular",
+      "v1": "Mention",
+      "v2": "Mentioned",
+      "v3": "Mentioned",
+      "ing": "Mentioning",
+      "tr": "Menyebutkan"
+    },
+    {
+      "type": "regular",
+      "v1": "Miss",
+      "v2": "Missed",
+      "v3": "Missed",
+      "ing": "Missing",
+      "tr": "Melewatkan"
+    },
+    {
+      "type": "regular",
+      "v1": "Move",
+      "v2": "Moved",
+      "v3": "Moved",
+      "ing": "Moving",
+      "tr": "Bergerak"
+    },
+    {
+      "type": "regular",
+      "v1": "Multiply",
+      "v2": "Multiplied",
+      "v3": "Multiplied",
+      "ing": "Multiplying",
+      "tr": "Mengalikan"
+    },
+    {
+      "type": "regular",
+      "v1": "Name",
+      "v2": "Named",
+      "v3": "Named",
+      "ing": "Naming",
+      "tr": "Menamai"
+    },
+    {
+      "type": "regular",
+      "v1": "Need",
+      "v2": "Needed",
+      "v3": "Needed",
+      "ing": "Needing",
+      "tr": "Membutuhkan"
+    },
+    {
+      "type": "regular",
+      "v1": "Notice",
+      "v2": "Noticed",
+      "v3": "Noticed",
+      "ing": "Noticing",
+      "tr": "Memperhatikan"
+    },
+    {
+      "type": "regular",
+      "v1": "Obtain",
+      "v2": "Obtained",
+      "v3": "Obtained",
+      "ing": "Obtaining",
+      "tr": "Memperoleh"
+    },
+    {
+      "type": "regular",
+      "v1": "Offer",
+      "v2": "Offered",
+      "v3": "Offered",
+      "ing": "Offering",
+      "tr": "Menawarkan"
+    },
+    {
+      "type": "regular",
+      "v1": "Open",
+      "v2": "Opened",
+      "v3": "Opened",
+      "ing": "Opening",
+      "tr": "Membuka"
+    },
+    {
+      "type": "regular",
+      "v1": "Operate",
+      "v2": "Operated",
+      "v3": "Operated",
+      "ing": "Operating",
+      "tr": "Mengoperasikan"
+    },
+    {
+      "type": "regular",
+      "v1": "Order",
+      "v2": "Ordered",
+      "v3": "Ordered",
+      "ing": "Ordering",
+      "tr": "Memesan"
+    },
+    {
+      "type": "regular",
+      "v1": "Organize",
+      "v2": "Organized",
+      "v3": "Organized",
+      "ing": "Organizing",
+      "tr": "Mengorganisir"
+    },
+    {
+      "type": "regular",
+      "v1": "Paint",
+      "v2": "Painted",
+      "v3": "Painted",
+      "ing": "Painting",
+      "tr": "Melukis"
+    },
+    {
+      "type": "regular",
+      "v1": "Pass",
+      "v2": "Passed",
+      "v3": "Passed",
+      "ing": "Passing",
+      "tr": "Melewati"
+    },
+    {
+      "type": "regular",
+      "v1": "Pay",
+      "v2": "Payed",
+      "v3": "Payed",
+      "ing": "Paying",
+      "tr": "Membayar"
+    },
+    {
+      "type": "regular",
+      "v1": "Perform",
+      "v2": "Performed",
+      "v3": "Performed",
+      "ing": "Performing",
+      "tr": "Melakukan"
+    },
+    {
+      "type": "regular",
+      "v1": "Place",
+      "v2": "Placed",
+      "v3": "Placed",
+      "ing": "Placing",
+      "tr": "Menempatkan"
+    },
+    {
+      "type": "regular",
+      "v1": "Plan",
+      "v2": "Planned",
+      "v3": "Planned",
+      "ing": "Planning",
+      "tr": "Merencanakan"
+    },
+    {
+      "type": "regular",
+      "v1": "Play",
+      "v2": "Played",
+      "v3": "Played",
+      "ing": "Playing",
+      "tr": "Bermain"
+    },
+    {
+      "type": "regular",
+      "v1": "Practice",
+      "v2": "Practiced",
+      "v3": "Practiced",
+      "ing": "Practicing",
+      "tr": "Berlatih"
+    },
+    {
+      "type": "regular",
+      "v1": "Prepare",
+      "v2": "Prepared",
+      "v3": "Prepared",
+      "ing": "Preparing",
+      "tr": "Mempersiapkan"
+    },
+    {
+      "type": "regular",
+      "v1": "Present",
+      "v2": "Presented",
+      "v3": "Presented",
+      "ing": "Presenting",
+      "tr": "Mempresentasikan"
+    },
+    {
+      "type": "regular",
+      "v1": "Prevent",
+      "v2": "Prevented",
+      "v3": "Prevented",
+      "ing": "Preventing",
+      "tr": "Mencegah"
+    },
+    {
+      "type": "regular",
+      "v1": "Print",
+      "v2": "Printed",
+      "v3": "Printed",
+      "ing": "Printing",
+      "tr": "Mencetak"
+    },
+    {
+      "type": "regular",
+      "v1": "Produce",
+      "v2": "Produced",
+      "v3": "Produced",
+      "ing": "Producing",
+      "tr": "Memproduksi"
+    },
+    {
+      "type": "regular",
+      "v1": "Provide",
+      "v2": "Provided",
+      "v3": "Provided",
+      "ing": "Providing",
+      "tr": "Menyediakan"
+    },
+    {
+      "type": "regular",
+      "v1": "Question",
+      "v2": "Questioned",
+      "v3": "Questioned",
+      "ing": "Questioning",
+      "tr": "Mempertanyakan"
+    },
+    {
+      "type": "regular",
+      "v1": "Raise",
+      "v2": "Raised",
+      "v3": "Raised",
+      "ing": "Raising",
+      "tr": "Meningkatkan"
+    },
+    {
+      "type": "regular",
+      "v1": "Reach",
+      "v2": "Reached",
+      "v3": "Reached",
+      "ing": "Reaching",
+      "tr": "Mencapai"
+    },
+    {
+      "type": "regular",
+      "v1": "Realize",
+      "v2": "Realized",
+      "v3": "Realized",
+      "ing": "Realizing",
+      "tr": "Menyadari"
+    },
+    {
+      "type": "regular",
+      "v1": "Receive",
+      "v2": "Received",
+      "v3": "Received",
+      "ing": "Receiving",
+      "tr": "Menerima"
+    },
+    {
+      "type": "regular",
+      "v1": "Record",
+      "v2": "Recorded",
+      "v3": "Recorded",
+      "ing": "Recording",
+      "tr": "Merekam"
+    },
+    {
+      "type": "regular",
+      "v1": "Register",
+      "v2": "Registered",
+      "v3": "Registered",
+      "ing": "Registering",
+      "tr": "Mendaftar"
+    },
+    {
+      "type": "regular",
+      "v1": "Relate",
+      "v2": "Related",
+      "v3": "Related",
+      "ing": "Relating",
+      "tr": "Berkaitan"
+    },
+    {
+      "type": "regular",
+      "v1": "Remember",
+      "v2": "Remembered",
+      "v3": "Remembered",
+      "ing": "Remembering",
+      "tr": "Mengingat"
+    },
+    {
+      "type": "regular",
+      "v1": "Remove",
+      "v2": "Removed",
+      "v3": "Removed",
+      "ing": "Removing",
+      "tr": "Menghapus"
+    },
+    {
+      "type": "regular",
+      "v1": "Repair",
+      "v2": "Repaired",
+      "v3": "Repaired",
+      "ing": "Repairing",
+      "tr": "Memperbaiki"
+    },
+    {
+      "type": "regular",
+      "v1": "Replace",
+      "v2": "Replaced",
+      "v3": "Replaced",
+      "ing": "Replacing",
+      "tr": "Mengganti"
+    },
+    {
+      "type": "regular",
+      "v1": "Report",
+      "v2": "Reported",
+      "v3": "Reported",
+      "ing": "Reporting",
+      "tr": "Melaporkan"
+    },
+    {
+      "type": "regular",
+      "v1": "Represent",
+      "v2": "Represented",
+      "v3": "Represented",
+      "ing": "Representing",
+      "tr": "Mewakili"
+    },
+    {
+      "type": "regular",
+      "v1": "Request",
+      "v2": "Requested",
+      "v3": "Requested",
+      "ing": "Requesting",
+      "tr": "Meminta"
+    },
+    {
+      "type": "regular",
+      "v1": "Require",
+      "v2": "Required",
+      "v3": "Required",
+      "ing": "Requiring",
+      "tr": "Memerlukan"
+    },
+    {
+      "type": "regular",
+      "v1": "Rescue",
+      "v2": "Rescued",
+      "v3": "Rescued",
+      "ing": "Rescuing",
+      "tr": "Menyelamatkan"
+    },
+    {
+      "type": "regular",
+      "v1": "Respect",
+      "v2": "Respected",
+      "v3": "Respected",
+      "ing": "Respecting",
+      "tr": "Menghormati"
+    },
+    {
+      "type": "regular",
+      "v1": "Save",
+      "v2": "Saved",
+      "v3": "Saved",
+      "ing": "Saving",
+      "tr": "Menyimpan"
+    },
+    {
+      "type": "regular",
+      "v1": "Search",
+      "v2": "Searched",
+      "v3": "Searched",
+      "ing": "Searching",
+      "tr": "Mencari"
+    },
+    {
+      "type": "regular",
+      "v1": "Select",
+      "v2": "Selected",
+      "v3": "Selected",
+      "ing": "Selecting",
+      "tr": "Memilih"
+    },
+    {
+      "type": "regular",
+      "v1": "Sell",
+      "v2": "Selled",
+      "v3": "Selled",
+      "ing": "Selling",
+      "tr": "Menjual"
+    },
+    {
+      "type": "regular",
+      "v1": "Send",
+      "v2": "Sended",
+      "v3": "Sended",
+      "ing": "Sending",
+      "tr": "Mengirim"
+    },
+    {
+      "type": "regular",
+      "v1": "Separate",
+      "v2": "Separated",
+      "v3": "Separated",
+      "ing": "Separating",
+      "tr": "Memisahkan"
+    },
+    {
+      "type": "regular",
+      "v1": "Serve",
+      "v2": "Served",
+      "v3": "Served",
+      "ing": "Serving",
+      "tr": "Melayani"
+    },
+    {
+      "type": "regular",
+      "v1": "Skip",
+      "v2": "Skipped",
+      "v3": "Skipped",
+      "ing": "Skipping",
+      "tr": "Melewatkan"
+    },
+    {
+      "type": "regular",
+      "v1": "Smile",
+      "v2": "Smiled",
+      "v3": "Smiled",
+      "ing": "Smiling",
+      "tr": "Tersenyum"
+    },
+    {
+      "type": "regular",
+      "v1": "Solve",
+      "v2": "Solved",
+      "v3": "Solved",
+      "ing": "Solving",
+      "tr": "Memecahkan"
+    },
+    {
+      "type": "regular",
+      "v1": "Sound",
+      "v2": "Sounded",
+      "v3": "Sounded",
+      "ing": "Sounding",
+      "tr": "Terdengar"
+    },
+    {
+      "type": "regular",
+      "v1": "Split",
+      "v2": "Splitted",
+      "v3": "Splitted",
+      "ing": "Splitting",
+      "tr": "Membelah"
+    },
+    {
+      "type": "regular",
+      "v1": "Start",
+      "v2": "Started",
+      "v3": "Started",
+      "ing": "Starting",
+      "tr": "Memulai"
+    },
+    {
+      "type": "regular",
+      "v1": "Stay",
+      "v2": "Stayed",
+      "v3": "Stayed",
+      "ing": "Staying",
+      "tr": "Tinggal"
+    },
+    {
+      "type": "regular",
+      "v1": "Stop",
+      "v2": "Stopped",
+      "v3": "Stopped",
+      "ing": "Stopping",
+      "tr": "Berhenti"
+    },
+    {
+      "type": "regular",
+      "v1": "Study",
+      "v2": "Studied",
+      "v3": "Studied",
+      "ing": "Studying",
+      "tr": "Belajar"
+    },
+    {
+      "type": "regular",
+      "v1": "Succeed",
+      "v2": "Succeeded",
+      "v3": "Succeeded",
+      "ing": "Succeeding",
+      "tr": "Berhasil"
+    },
+    {
+      "type": "regular",
+      "v1": "Suggest",
+      "v2": "Suggested",
+      "v3": "Suggested",
+      "ing": "Suggesting",
+      "tr": "Menyarankan"
+    },
+    {
+      "type": "regular",
+      "v1": "Supply",
+      "v2": "Supplied",
+      "v3": "Supplied",
+      "ing": "Supplying",
+      "tr": "Memasok"
+    },
+    {
+      "type": "regular",
+      "v1": "Support",
+      "v2": "Supported",
+      "v3": "Supported",
+      "ing": "Supporting",
+      "tr": "Mendukung"
+    },
+    {
+      "type": "regular",
+      "v1": "Talk",
+      "v2": "Talked",
+      "v3": "Talked",
+      "ing": "Talking",
+      "tr": "Berbicara"
+    },
+    {
+      "type": "regular",
+      "v1": "Thank",
+      "v2": "Thanked",
+      "v3": "Thanked",
+      "ing": "Thanking",
+      "tr": "Berterima kasih"
+    },
+    {
+      "type": "regular",
+      "v1": "Travel",
+      "v2": "Traveled",
+      "v3": "Traveled",
+      "ing": "Traveling",
+      "tr": "Bepergian"
+    },
+    {
+      "type": "regular",
+      "v1": "Treat",
+      "v2": "Treated",
+      "v3": "Treated",
+      "ing": "Treating",
+      "tr": "Memperlakukan"
+    },
+    {
+      "type": "regular",
+      "v1": "Try",
+      "v2": "Tried",
+      "v3": "Tried",
+      "ing": "Trying",
+      "tr": "Mencoba"
+    },
+    {
+      "type": "regular",
+      "v1": "Turn",
+      "v2": "Turned",
+      "v3": "Turned",
+      "ing": "Turning",
+      "tr": "Berbalik"
+    },
+    {
+      "type": "regular",
+      "v1": "Upload",
+      "v2": "Uploaded",
+      "v3": "Uploaded",
+      "ing": "Uploading",
+      "tr": "Mengunggah"
+    },
+    {
+      "type": "regular",
+      "v1": "Use",
+      "v2": "Used",
+      "v3": "Used",
+      "ing": "Using",
+      "tr": "Menggunakan"
+    },
+    {
+      "type": "regular",
+      "v1": "Value",
+      "v2": "Valued",
+      "v3": "Valued",
+      "ing": "Valuing",
+      "tr": "Menghargai"
+    },
+    {
+      "type": "regular",
+      "v1": "Visit",
+      "v2": "Visited",
+      "v3": "Visited",
+      "ing": "Visiting",
+      "tr": "Mengunjungi"
+    },
+    {
+      "type": "regular",
+      "v1": "Walk",
+      "v2": "Walked",
+      "v3": "Walked",
+      "ing": "Walking",
+      "tr": "Berjalan"
+    },
+    {
+      "type": "regular",
+      "v1": "Wait",
+      "v2": "Waited",
+      "v3": "Waited",
+      "ing": "Waiting",
+      "tr": "Menunggu"
+    },
+    {
+      "type": "regular",
+      "v1": "Watch",
+      "v2": "Watched",
+      "v3": "Watched",
+      "ing": "Watching",
+      "tr": "Menonton"
+    },
+    {
+      "type": "regular",
+      "v1": "Welcome",
+      "v2": "Welcomed",
+      "v3": "Welcomed",
+      "ing": "Welcoming",
+      "tr": "Menyambut"
+    },
+    {
+      "type": "regular",
+      "v1": "Wish",
+      "v2": "Wished",
+      "v3": "Wished",
+      "ing": "Wishing",
+      "tr": "Berharap"
+    },
+    {
+      "type": "regular",
+      "v1": "Wonder",
+      "v2": "Wondered",
+      "v3": "Wondered",
+      "ing": "Wondering",
+      "tr": "Bertanya-tanya"
+    },
+    {
+      "type": "regular",
+      "v1": "Work",
+      "v2": "Worked",
+      "v3": "Worked",
+      "ing": "Working",
+      "tr": "Bekerja"
+    },
+    {
+      "type": "regular",
+      "v1": "Worry",
+      "v2": "Worried",
+      "v3": "Worried",
+      "ing": "Worrying",
+      "tr": "Khawatir"
+    },
+    {
+      "type": "regular",
+      "v1": "Yield",
+      "v2": "Yielded",
+      "v3": "Yielded",
+      "ing": "Yielding",
+      "tr": "Menghasilkan"
+    },
+    {
+      "type": "regular",
+      "v1": "Zoom",
+      "v2": "Zoomed",
+      "v3": "Zoomed",
+      "ing": "Zooming",
+      "tr": "Memperbesar"
+    },
+    {
+      "type": "irregular",
+      "v1": "Arise",
+      "v2": "Arose",
+      "v3": "Arisen",
+      "ing": "Arising",
+      "tr": "Timbul"
+    },
+    {
+      "type": "irregular",
+      "v1": "Awake",
+      "v2": "Awoke",
+      "v3": "Awoken",
+      "ing": "Awaking",
+      "tr": "Bangun"
+    },
+    {
+      "type": "irregular",
+      "v1": "Be",
+      "v2": "Was/Were",
+      "v3": "Been",
+      "ing": "Being",
+      "tr": "Adalah"
+    },
+    {
+      "type": "irregular",
+      "v1": "Bear",
+      "v2": "Bore",
+      "v3": "Borne",
+      "ing": "Bearing",
+      "tr": "Menanggung"
+    },
+    {
+      "type": "irregular",
+      "v1": "Beat",
+      "v2": "Beat",
+      "v3": "Beaten",
+      "ing": "Beating",
+      "tr": "Mengalahkan"
+    },
+    {
+      "type": "irregular",
+      "v1": "Become",
+      "v2": "Became",
+      "v3": "Become",
+      "ing": "Becoming",
+      "tr": "Menjadi"
+    },
+    {
+      "type": "irregular",
+      "v1": "Begin",
+      "v2": "Began",
+      "v3": "Begun",
+      "ing": "Beginning",
+      "tr": "Dimulai"
+    },
+    {
+      "type": "irregular",
+      "v1": "Bend",
+      "v2": "Bent",
+      "v3": "Bent",
+      "ing": "Bending",
+      "tr": "Membengkok"
+    },
+    {
+      "type": "irregular",
+      "v1": "Bet",
+      "v2": "Bet",
+      "v3": "Bet",
+      "ing": "Betting",
+      "tr": "Bertaruh"
+    },
+    {
+      "type": "irregular",
+      "v1": "Bid",
+      "v2": "Bid",
+      "v3": "Bid",
+      "ing": "Bidding",
+      "tr": "Menawar"
+    },
+    {
+      "type": "irregular",
+      "v1": "Bind",
+      "v2": "Bound",
+      "v3": "Bound",
+      "ing": "Binding",
+      "tr": "Mengikat"
+    },
+    {
+      "type": "irregular",
+      "v1": "Bite",
+      "v2": "Bit",
+      "v3": "Bitten",
+      "ing": "Biting",
+      "tr": "Menggigit"
+    },
+    {
+      "type": "irregular",
+      "v1": "Bleed",
+      "v2": "Bled",
+      "v3": "Bled",
+      "ing": "Bleeding",
+      "tr": "Berdarah"
+    },
+    {
+      "type": "irregular",
+      "v1": "Blow",
+      "v2": "Blew",
+      "v3": "Blown",
+      "ing": "Blowing",
+      "tr": "Meniup"
+    },
+    {
+      "type": "irregular",
+      "v1": "Break",
+      "v2": "Broke",
+      "v3": "Broken",
+      "ing": "Breaking",
+      "tr": "Memecah"
+    },
+    {
+      "type": "irregular",
+      "v1": "Breed",
+      "v2": "Bred",
+      "v3": "Bred",
+      "ing": "Breeding",
+      "tr": "Memelihara"
+    },
+    {
+      "type": "irregular",
+      "v1": "Bring",
+      "v2": "Brought",
+      "v3": "Brought",
+      "ing": "Bringing",
+      "tr": "Membawa"
+    },
+    {
+      "type": "irregular",
+      "v1": "Broadcast",
+      "v2": "Broadcast",
+      "v3": "Broadcast",
+      "ing": "Broadcasting",
+      "tr": "Menyiarkan"
+    },
+    {
+      "type": "irregular",
+      "v1": "Build",
+      "v2": "Built",
+      "v3": "Built",
+      "ing": "Building",
+      "tr": "Membangun"
+    },
+    {
+      "type": "irregular",
+      "v1": "Burn",
+      "v2": "Burned/Burnt",
+      "v3": "Burned/Burnt",
+      "ing": "Burning",
+      "tr": "Membakar"
+    },
+    {
+      "type": "irregular",
+      "v1": "Burst",
+      "v2": "Burst",
+      "v3": "Burst",
+      "ing": "Bursting",
+      "tr": "Meledak"
+    },
+    {
+      "type": "irregular",
+      "v1": "Buy",
+      "v2": "Bought",
+      "v3": "Bought",
+      "ing": "Buying",
+      "tr": "Membeli"
+    },
+    {
+      "type": "irregular",
+      "v1": "Cast",
+      "v2": "Cast",
+      "v3": "Cast",
+      "ing": "Casting",
+      "tr": "Melempar"
+    },
+    {
+      "type": "irregular",
+      "v1": "Catch",
+      "v2": "Caught",
+      "v3": "Caught",
+      "ing": "Catching",
+      "tr": "Menangkap"
+    },
+    {
+      "type": "irregular",
+      "v1": "Choose",
+      "v2": "Chose",
+      "v3": "Chosen",
+      "ing": "Choosing",
+      "tr": "Memilih"
+    },
+    {
+      "type": "irregular",
+      "v1": "Cling",
+      "v2": "Clung",
+      "v3": "Clung",
+      "ing": "Clinging",
+      "tr": "Berpegang"
+    },
+    {
+      "type": "irregular",
+      "v1": "Come",
+      "v2": "Came",
+      "v3": "Come",
+      "ing": "Coming",
+      "tr": "Datang"
+    },
+    {
+      "type": "irregular",
+      "v1": "Cost",
+      "v2": "Cost",
+      "v3": "Cost",
+      "ing": "Costing",
+      "tr": "Harga"
+    },
+    {
+      "type": "irregular",
+      "v1": "Creep",
+      "v2": "Crept",
+      "v3": "Crept",
+      "ing": "Creeping",
+      "tr": "Merangkak"
+    },
+    {
+      "type": "irregular",
+      "v1": "Cut",
+      "v2": "Cut",
+      "v3": "Cut",
+      "ing": "Cutting",
+      "tr": "Memotong"
+    },
+    {
+      "type": "irregular",
+      "v1": "Deal",
+      "v2": "Dealt",
+      "v3": "Dealt",
+      "ing": "Dealing",
+      "tr": "Menangani"
+    },
+    {
+      "type": "irregular",
+      "v1": "Dig",
+      "v2": "Dug",
+      "v3": "Dug",
+      "ing": "Digging",
+      "tr": "Menggali"
+    },
+    {
+      "type": "irregular",
+      "v1": "Do",
+      "v2": "Did",
+      "v3": "Done",
+      "ing": "Doing",
+      "tr": "Melakukan"
+    },
+    {
+      "type": "irregular",
+      "v1": "Draw",
+      "v2": "Drew",
+      "v3": "Drawn",
+      "ing": "Drawing",
+      "tr": "Menggambar"
+    },
+    {
+      "type": "irregular",
+      "v1": "Dream",
+      "v2": "Dreamed/Dreamt",
+      "v3": "Dreamed/Dreamt",
+      "ing": "Dreaming",
+      "tr": "Bermimpi"
+    },
+    {
+      "type": "irregular",
+      "v1": "Drink",
+      "v2": "Drank",
+      "v3": "Drunk",
+      "ing": "Drinking",
+      "tr": "Minum"
+    },
+    {
+      "type": "irregular",
+      "v1": "Drive",
+      "v2": "Drove",
+      "v3": "Driven",
+      "ing": "Driving",
+      "tr": "Mengemudi"
+    },
+    {
+      "type": "irregular",
+      "v1": "Eat",
+      "v2": "Ate",
+      "v3": "Eaten",
+      "ing": "Eating",
+      "tr": "Makan"
+    },
+    {
+      "type": "irregular",
+      "v1": "Fall",
+      "v2": "Fell",
+      "v3": "Fallen",
+      "ing": "Falling",
+      "tr": "Jatuh"
+    },
+    {
+      "type": "irregular",
+      "v1": "Feed",
+      "v2": "Fed",
+      "v3": "Fed",
+      "ing": "Feeding",
+      "tr": "Memberi makan"
+    },
+    {
+      "type": "irregular",
+      "v1": "Feel",
+      "v2": "Felt",
+      "v3": "Felt",
+      "ing": "Feeling",
+      "tr": "Merasa"
+    },
+    {
+      "type": "irregular",
+      "v1": "Fight",
+      "v2": "Fought",
+      "v3": "Fought",
+      "ing": "Fighting",
+      "tr": "Berkelahi"
+    },
+    {
+      "type": "irregular",
+      "v1": "Find",
+      "v2": "Found",
+      "v3": "Found",
+      "ing": "Finding",
+      "tr": "Menemukan"
+    },
+    {
+      "type": "irregular",
+      "v1": "Flee",
+      "v2": "Fled",
+      "v3": "Fled",
+      "ing": "Fleeing",
+      "tr": "Melarikan diri"
+    },
+    {
+      "type": "irregular",
+      "v1": "Fling",
+      "v2": "Flung",
+      "v3": "Flung",
+      "ing": "Flinging",
+      "tr": "Melempar"
+    },
+    {
+      "type": "irregular",
+      "v1": "Fly",
+      "v2": "Flew",
+      "v3": "Flown",
+      "ing": "Flying",
+      "tr": "Terbang"
+    },
+    {
+      "type": "irregular",
+      "v1": "Forbid",
+      "v2": "Forbade",
+      "v3": "Forbidden",
+      "ing": "Forbidding",
+      "tr": "Melarang"
+    },
+    {
+      "type": "irregular",
+      "v1": "Forget",
+      "v2": "Forgot",
+      "v3": "Forgotten",
+      "ing": "Forgetting",
+      "tr": "Lupa"
+    },
+    {
+      "type": "irregular",
+      "v1": "Forgive",
+      "v2": "Forgave",
+      "v3": "Forgiven",
+      "ing": "Forgiving",
+      "tr": "Memaafkan"
+    },
+    {
+      "type": "irregular",
+      "v1": "Freeze",
+      "v2": "Froze",
+      "v3": "Frozen",
+      "ing": "Freezing",
+      "tr": "Membeku"
+    },
+    {
+      "type": "irregular",
+      "v1": "Get",
+      "v2": "Got",
+      "v3": "Got/Gotten",
+      "ing": "Getting",
+      "tr": "Mendapatkan"
+    },
+    {
+      "type": "irregular",
+      "v1": "Give",
+      "v2": "Gave",
+      "v3": "Given",
+      "ing": "Giving",
+      "tr": "Memberi"
+    },
+    {
+      "type": "irregular",
+      "v1": "Go",
+      "v2": "Went",
+      "v3": "Gone",
+      "ing": "Going",
+      "tr": "Pergi"
+    },
+    {
+      "type": "irregular",
+      "v1": "Grind",
+      "v2": "Ground",
+      "v3": "Ground",
+      "ing": "Grinding",
+      "tr": "Menggiling"
+    },
+    {
+      "type": "irregular",
+      "v1": "Grow",
+      "v2": "Grew",
+      "v3": "Grown",
+      "ing": "Growing",
+      "tr": "Tumbuh"
+    },
+    {
+      "type": "irregular",
+      "v1": "Hang",
+      "v2": "Hung",
+      "v3": "Hung",
+      "ing": "Hanging",
+      "tr": "Menggantung"
+    },
+    {
+      "type": "irregular",
+      "v1": "Have",
+      "v2": "Had",
+      "v3": "Had",
+      "ing": "Having",
+      "tr": "Memiliki"
+    },
+    {
+      "type": "irregular",
+      "v1": "Hear",
+      "v2": "Heard",
+      "v3": "Heard",
+      "ing": "Hearing",
+      "tr": "Mendengar"
+    },
+    {
+      "type": "irregular",
+      "v1": "Hide",
+      "v2": "Hid",
+      "v3": "Hidden",
+      "ing": "Hiding",
+      "tr": "Bersembunyi"
+    },
+    {
+      "type": "irregular",
+      "v1": "Hit",
+      "v2": "Hit",
+      "v3": "Hit",
+      "ing": "Hitting",
+      "tr": "Memukul"
+    },
+    {
+      "type": "irregular",
+      "v1": "Hold",
+      "v2": "Held",
+      "v3": "Held",
+      "ing": "Holding",
+      "tr": "Memegang"
+    },
+    {
+      "type": "irregular",
+      "v1": "Hurt",
+      "v2": "Hurt",
+      "v3": "Hurt",
+      "ing": "Hurting",
+      "tr": "Menyakiti"
+    },
+    {
+      "type": "irregular",
+      "v1": "Input",
+      "v2": "Input",
+      "v3": "Input",
+      "ing": "Inputting",
+      "tr": "Memasukkan"
+    },
+    {
+      "type": "irregular",
+      "v1": "Keep",
+      "v2": "Kept",
+      "v3": "Kept",
+      "ing": "Keeping",
+      "tr": "Menjaga"
+    },
+    {
+      "type": "irregular",
+      "v1": "Kneel",
+      "v2": "Knelt",
+      "v3": "Knelt",
+      "ing": "Kneeling",
+      "tr": "Berlutut"
+    },
+    {
+      "type": "irregular",
+      "v1": "Know",
+      "v2": "Knew",
+      "v3": "Known",
+      "ing": "Knowing",
+      "tr": "Tahu"
+    },
+    {
+      "type": "irregular",
+      "v1": "Lead",
+      "v2": "Led",
+      "v3": "Led",
+      "ing": "Leading",
+      "tr": "Memimpin"
+    },
+    {
+      "type": "irregular",
+      "v1": "Lean",
+      "v2": "Leaned/Leant",
+      "v3": "Leaned/Leant",
+      "ing": "Leaning",
+      "tr": "Bersandar"
+    },
+    {
+      "type": "irregular",
+      "v1": "Leap",
+      "v2": "Leaped/Leapt",
+      "v3": "Leaped/Leapt",
+      "ing": "Leaping",
+      "tr": "Melompat"
+    },
+    {
+      "type": "irregular",
+      "v1": "Learn",
+      "v2": "Learned/Learnt",
+      "v3": "Learned/Learnt",
+      "ing": "Learning",
+      "tr": "Belajar"
+    },
+    {
+      "type": "irregular",
+      "v1": "Leave",
+      "v2": "Left",
+      "v3": "Left",
+      "ing": "Leaving",
+      "tr": "Pergi"
+    },
+    {
+      "type": "irregular",
+      "v1": "Lend",
+      "v2": "Lent",
+      "v3": "Lent",
+      "ing": "Lending",
+      "tr": "Meminjamkan"
+    },
+    {
+      "type": "irregular",
+      "v1": "Let",
+      "v2": "Let",
+      "v3": "Let",
+      "ing": "Letting",
+      "tr": "Membiarkan"
+    },
+    {
+      "type": "irregular",
+      "v1": "Lie",
+      "v2": "Lay",
+      "v3": "Lain",
+      "ing": "Lying",
+      "tr": "Berbohong"
+    },
+    {
+      "type": "irregular",
+      "v1": "Light",
+      "v2": "Lit",
+      "v3": "Lit",
+      "ing": "Lighting",
+      "tr": "Menyalakan"
+    },
+    {
+      "type": "irregular",
+      "v1": "Lose",
+      "v2": "Lost",
+      "v3": "Lost",
+      "ing": "Losing",
+      "tr": "Kehilangan"
+    },
+    {
+      "type": "irregular",
+      "v1": "Make",
+      "v2": "Made",
+      "v3": "Made",
+      "ing": "Making",
+      "tr": "Membuat"
+    },
+    {
+      "type": "irregular",
+      "v1": "Mean",
+      "v2": "Meant",
+      "v3": "Meant",
+      "ing": "Meaning",
+      "tr": "Berarti"
+    },
+    {
+      "type": "irregular",
+      "v1": "Meet",
+      "v2": "Met",
+      "v3": "Met",
+      "ing": "Meeting",
+      "tr": "Bertemu"
+    },
+    {
+      "type": "irregular",
+      "v1": "Mishear",
+      "v2": "Misheard",
+      "v3": "Misheard",
+      "ing": "Mishearing",
+      "tr": "Salah dengar"
+    },
+    {
+      "type": "irregular",
+      "v1": "Mistake",
+      "v2": "Mistook",
+      "v3": "Mistaken",
+      "ing": "Mistaking",
+      "tr": "Keliru"
+    },
+    {
+      "type": "irregular",
+      "v1": "Overcome",
+      "v2": "Overcame",
+      "v3": "Overcome",
+      "ing": "Overcoming",
+      "tr": "Mengatasi"
+    },
+    {
+      "type": "irregular",
+      "v1": "Overhear",
+      "v2": "Overheard",
+      "v3": "Overheard",
+      "ing": "Overhearing",
+      "tr": "Mendengar diam-diam"
+    },
+    {
+      "type": "irregular",
+      "v1": "Pay",
+      "v2": "Paid",
+      "v3": "Paid",
+      "ing": "Paying",
+      "tr": "Membayar"
+    },
+    {
+      "type": "irregular",
+      "v1": "Prove",
+      "v2": "Proved",
+      "v3": "Proven/Proved",
+      "ing": "Proving",
+      "tr": "Membuktikan"
+    },
+    {
+      "type": "irregular",
+      "v1": "Read",
+      "v2": "Read",
+      "v3": "Read",
+      "ing": "Reading",
+      "tr": "Membaca"
+    },
+    {
+      "type": "irregular",
+      "v1": "Rebuild",
+      "v2": "Rebuilt",
+      "v3": "Rebuilt",
+      "ing": "Rebuilding",
+      "tr": "Membangun kembali"
+    },
+    {
+      "type": "irregular",
+      "v1": "Recall",
+      "v2": "Recalled",
+      "v3": "Recalled",
+      "ing": "Recalling",
+      "tr": "Mengingat kembali"
+    },
+    {
+      "type": "irregular",
+      "v1": "Rid",
+      "v2": "Rid",
+      "v3": "Rid",
+      "ing": "Ridding",
+      "tr": "Membebaskan"
+    },
+    {
+      "type": "irregular",
+      "v1": "Ride",
+      "v2": "Rode",
+      "v3": "Ridden",
+      "ing": "Riding",
+      "tr": "Menunggangi"
+    },
+    {
+      "type": "irregular",
+      "v1": "Ring",
+      "v2": "Rang",
+      "v3": "Rung",
+      "ing": "Ringing",
+      "tr": "Berbunyi"
+    },
+    {
+      "type": "irregular",
+      "v1": "Rise",
+      "v2": "Rose",
+      "v3": "Risen",
+      "ing": "Rising",
+      "tr": "Naik"
+    },
+    {
+      "type": "irregular",
+      "v1": "Run",
+      "v2": "Ran",
+      "v3": "Run",
+      "ing": "Running",
+      "tr": "Berlari"
+    },
+    {
+      "type": "irregular",
+      "v1": "Say",
+      "v2": "Said",
+      "v3": "Said",
+      "ing": "Saying",
+      "tr": "Mengatakan"
+    },
+    {
+      "type": "irregular",
+      "v1": "See",
+      "v2": "Saw",
+      "v3": "Seen",
+      "ing": "Seeing",
+      "tr": "Melihat"
+    },
+    {
+      "type": "irregular",
+      "v1": "Seek",
+      "v2": "Sought",
+      "v3": "Sought",
+      "ing": "Seeking",
+      "tr": "Mencari"
+    },
+    {
+      "type": "irregular",
+      "v1": "Sell",
+      "v2": "Sold",
+      "v3": "Sold",
+      "ing": "Selling",
+      "tr": "Menjual"
+    },
+    {
+      "type": "irregular",
+      "v1": "Send",
+      "v2": "Sent",
+      "v3": "Sent",
+      "ing": "Sending",
+      "tr": "Mengirim"
+    },
+    {
+      "type": "irregular",
+      "v1": "Set",
+      "v2": "Set",
+      "v3": "Set",
+      "ing": "Setting",
+      "tr": "Mengatur"
+    },
+    {
+      "type": "irregular",
+      "v1": "Shake",
+      "v2": "Shook",
+      "v3": "Shaken",
+      "ing": "Shaking",
+      "tr": "Mengguncang"
+    },
+    {
+      "type": "irregular",
+      "v1": "Shed",
+      "v2": "Shed",
+      "v3": "Shed",
+      "ing": "Shedding",
+      "tr": "Melepaskan"
+    },
+    {
+      "type": "irregular",
+      "v1": "Shine",
+      "v2": "Shone",
+      "v3": "Shone",
+      "ing": "Shining",
+      "tr": "Bersinar"
+    },
+    {
+      "type": "irregular",
+      "v1": "Shoot",
+      "v2": "Shot",
+      "v3": "Shot",
+      "ing": "Shooting",
+      "tr": "Menembak"
+    },
+    {
+      "type": "irregular",
+      "v1": "Show",
+      "v2": "Showed",
+      "v3": "Shown",
+      "ing": "Showing",
+      "tr": "Menunjukkan"
+    },
+    {
+      "type": "irregular",
+      "v1": "Shrink",
+      "v2": "Shrank",
+      "v3": "Shrunk",
+      "ing": "Shrinking",
+      "tr": "Menyusut"
+    },
+    {
+      "type": "irregular",
+      "v1": "Shut",
+      "v2": "Shut",
+      "v3": "Shut",
+      "ing": "Shutting",
+      "tr": "Menutup"
+    },
+    {
+      "type": "irregular",
+      "v1": "Sing",
+      "v2": "Sang",
+      "v3": "Sung",
+      "ing": "Singing",
+      "tr": "Menyanyi"
+    },
+    {
+      "type": "irregular",
+      "v1": "Sink",
+      "v2": "Sank",
+      "v3": "Sunk",
+      "ing": "Sinking",
+      "tr": "Tenggelam"
+    },
+    {
+      "type": "irregular",
+      "v1": "Sit",
+      "v2": "Sat",
+      "v3": "Sat",
+      "ing": "Sitting",
+      "tr": "Duduk"
+    },
+    {
+      "type": "irregular",
+      "v1": "Sleep",
+      "v2": "Slept",
+      "v3": "Slept",
+      "ing": "Sleeping",
+      "tr": "Tidur"
+    },
+    {
+      "type": "irregular",
+      "v1": "Slide",
+      "v2": "Slid",
+      "v3": "Slid",
+      "ing": "Sliding",
+      "tr": "Meluncur"
+    },
+    {
+      "type": "irregular",
+      "v1": "Sling",
+      "v2": "Slung",
+      "v3": "Slung",
+      "ing": "Slinging",
+      "tr": "Melempar"
+    },
+    {
+      "type": "irregular",
+      "v1": "Smell",
+      "v2": "Smelled/Smelt",
+      "v3": "Smelled/Smelt",
+      "ing": "Smelling",
+      "tr": "Mencium"
+    },
+    {
+      "type": "irregular",
+      "v1": "Sow",
+      "v2": "Sowed",
+      "v3": "Sown",
+      "ing": "Sowing",
+      "tr": "Menabur"
+    },
+    {
+      "type": "irregular",
+      "v1": "Speak",
+      "v2": "Spoke",
+      "v3": "Spoken",
+      "ing": "Speaking",
+      "tr": "Berbicara"
+    },
+    {
+      "type": "irregular",
+      "v1": "Speed",
+      "v2": "Sped",
+      "v3": "Sped",
+      "ing": "Speeding",
+      "tr": "Mempercepat"
+    },
+    {
+      "type": "irregular",
+      "v1": "Spend",
+      "v2": "Spent",
+      "v3": "Spent",
+      "ing": "Spending",
+      "tr": "Menghabiskan"
+    },
+    {
+      "type": "irregular",
+      "v1": "Spill",
+      "v2": "Spilled/Spilt",
+      "v3": "Spilled/Spilt",
+      "ing": "Spilling",
+      "tr": "Menumpahkan"
+    },
+    {
+      "type": "irregular",
+      "v1": "Spin",
+      "v2": "Spun",
+      "v3": "Spun",
+      "ing": "Spinning",
+      "tr": "Berputar"
+    },
+    {
+      "type": "irregular",
+      "v1": "Spit",
+      "v2": "Spat",
+      "v3": "Spat",
+      "ing": "Spitting",
+      "tr": "Meludah"
+    },
+    {
+      "type": "irregular",
+      "v1": "Split",
+      "v2": "Split",
+      "v3": "Split",
+      "ing": "Splitting",
+      "tr": "Membelah"
+    },
+    {
+      "type": "irregular",
+      "v1": "Spread",
+      "v2": "Spread",
+      "v3": "Spread",
+      "ing": "Spreading",
+      "tr": "Menyebarkan"
+    },
+    {
+      "type": "irregular",
+      "v1": "Spring",
+      "v2": "Sprang",
+      "v3": "Sprung",
+      "ing": "Springing",
+      "tr": "Melompat"
+    },
+    {
+      "type": "irregular",
+      "v1": "Stand",
+      "v2": "Stood",
+      "v3": "Stood",
+      "ing": "Standing",
+      "tr": "Berdiri"
+    },
+    {
+      "type": "irregular",
+      "v1": "Steal",
+      "v2": "Stole",
+      "v3": "Stolen",
+      "ing": "Stealing",
+      "tr": "Mencuri"
+    },
+    {
+      "type": "irregular",
+      "v1": "Stick",
+      "v2": "Stuck",
+      "v3": "Stuck",
+      "ing": "Sticking",
+      "tr": "Menempel"
+    },
+    {
+      "type": "irregular",
+      "v1": "Sting",
+      "v2": "Stung",
+      "v3": "Stung",
+      "ing": "Stinging",
+      "tr": "Menyengat"
+    },
+    {
+      "type": "irregular",
+      "v1": "Stink",
+      "v2": "Stank",
+      "v3": "Stunk",
+      "ing": "Stinking",
+      "tr": "Berbau busuk"
+    },
+    {
+      "type": "irregular",
+      "v1": "Strike",
+      "v2": "Struck",
+      "v3": "Struck",
+      "ing": "Striking",
+      "tr": "Memukul"
+    },
+    {
+      "type": "irregular",
+      "v1": "String",
+      "v2": "Strung",
+      "v3": "Strung",
+      "ing": "Stringing",
+      "tr": "Membentangkan"
+    },
+    {
+      "type": "irregular",
+      "v1": "Strive",
+      "v2": "Strived/Strove",
+      "v3": "Strived/Striven",
+      "ing": "Striving",
+      "tr": "Berusaha"
+    },
+    {
+      "type": "irregular",
+      "v1": "Swear",
+      "v2": "Swore",
+      "v3": "Sworn",
+      "ing": "Swearing",
+      "tr": "Bersumpah"
+    },
+    {
+      "type": "irregular",
+      "v1": "Sweep",
+      "v2": "Swept",
+      "v3": "Swept",
+      "ing": "Sweeping",
+      "tr": "Menyapu"
+    },
+    {
+      "type": "irregular",
+      "v1": "Swell",
+      "v2": "Swelled",
+      "v3": "Swollen/Swelled",
+      "ing": "Swelling",
+      "tr": "Membengkak"
+    },
+    {
+      "type": "irregular",
+      "v1": "Swim",
+      "v2": "Swam",
+      "v3": "Swum",
+      "ing": "Swimming",
+      "tr": "Berenang"
+    },
+    {
+      "type": "irregular",
+      "v1": "Swing",
+      "v2": "Swung",
+      "v3": "Swung",
+      "ing": "Swinging",
+      "tr": "Berayun"
+    },
+    {
+      "type": "irregular",
+      "v1": "Take",
+      "v2": "Took",
+      "v3": "Taken",
+      "ing": "Taking",
+      "tr": "Mengambil"
+    },
+    {
+      "type": "irregular",
+      "v1": "Teach",
+      "v2": "Taught",
+      "v3": "Taught",
+      "ing": "Teaching",
+      "tr": "Mengajar"
+    },
+    {
+      "type": "irregular",
+      "v1": "Tell",
+      "v2": "Told",
+      "v3": "Told",
+      "ing": "Telling",
+      "tr": "Menceritakan"
+    },
+    {
+      "type": "irregular",
+      "v1": "Think",
+      "v2": "Thought",
+      "v3": "Thought",
+      "ing": "Thinking",
+      "tr": "Berpikir"
+    },
+    {
+      "type": "irregular",
+      "v1": "Thrive",
+      "v2": "Thrived/Throve",
+      "v3": "Thrived/Thriven",
+      "ing": "Thriving",
+      "tr": "Berkembang"
+    },
+    {
+      "type": "irregular",
+      "v1": "Throw",
+      "v2": "Threw",
+      "v3": "Thrown",
+      "ing": "Throwing",
+      "tr": "Melempar"
+    },
+    {
+      "type": "irregular",
+      "v1": "Thrust",
+      "v2": "Thrust",
+      "v3": "Thrust",
+      "ing": "Thrusting",
+      "tr": "Menusuk"
+    },
+    {
+      "type": "irregular",
+      "v1": "Tread",
+      "v2": "Trod",
+      "v3": "Trodden",
+      "ing": "Treading",
+      "tr": "Melangkah"
+    },
+    {
+      "type": "irregular",
+      "v1": "Understand",
+      "v2": "Understood",
+      "v3": "Understood",
+      "ing": "Understanding",
+      "tr": "Memahami"
+    },
+    {
+      "type": "irregular",
+      "v1": "Undertake",
+      "v2": "Undertook",
+      "v3": "Undertaken",
+      "ing": "Undertaking",
+      "tr": "Mengadakan"
+    },
+    {
+      "type": "irregular",
+      "v1": "Upset",
+      "v2": "Upset",
+      "v3": "Upset",
+      "ing": "Upsetting",
+      "tr": "Mengganggu"
+    },
+    {
+      "type": "irregular",
+      "v1": "Wake",
+      "v2": "Woke",
+      "v3": "Woken",
+      "ing": "Waking",
+      "tr": "Bangun"
+    },
+    {
+      "type": "irregular",
+      "v1": "Wear",
+      "v2": "Wore",
+      "v3": "Worn",
+      "ing": "Wearing",
+      "tr": "Memakai"
+    },
+    {
+      "type": "irregular",
+      "v1": "Weave",
+      "v2": "Wove",
+      "v3": "Woven",
+      "ing": "Weaving",
+      "tr": "Menenun"
+    },
+    {
+      "type": "irregular",
+      "v1": "Wed",
+      "v2": "Wed",
+      "v3": "Wed",
+      "ing": "Wedding",
+      "tr": "Menikah"
+    },
+    {
+      "type": "irregular",
+      "v1": "Weep",
+      "v2": "Wept",
+      "v3": "Wept",
+      "ing": "Weeping",
+      "tr": "Menangis"
+    },
+    {
+      "type": "irregular",
+      "v1": "Wet",
+      "v2": "Wet",
+      "v3": "Wet",
+      "ing": "Wetting",
+      "tr": "Basah"
+    },
+    {
+      "type": "irregular",
+      "v1": "Win",
+      "v2": "Won",
+      "v3": "Won",
+      "ing": "Winning",
+      "tr": "Menang"
+    },
+    {
+      "type": "irregular",
+      "v1": "Withdraw",
+      "v2": "Withdrew",
+      "v3": "Withdrawn",
+      "ing": "Withdrawing",
+      "tr": "Menarik diri"
+    },
+    {
+      "type": "irregular",
+      "v1": "Wring",
+      "v2": "Wrung",
+      "v3": "Wrung",
+      "ing": "Wringing",
+      "tr": "Memeras"
+    },
+    {
+      "type": "irregular",
+      "v1": "Write",
+      "v2": "Wrote",
+      "v3": "Written",
+      "ing": "Writing",
+      "tr": "Menulis"
     }
   ]
 }
