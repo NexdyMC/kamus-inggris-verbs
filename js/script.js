@@ -11,10 +11,9 @@ fetch('/language/id-ID.json')
 // Render tabel verb
 function renderTable(data) {
     const tableBody = document.getElementById('verb-table');
-    tableBody.innerHTML = ''; // Kosongkan tabel sebelum render
+    tableBody.innerHTML = ''; 
     
     data.forEach(item => {
-        // Menambahkan class 'search' pada setiap baris agar bisa dipanggil
         const row = document.createElement('tr');
         row.className = 'search'; 
         row.innerHTML = `
